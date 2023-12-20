@@ -1,0 +1,1 @@
+console.log('API URL = htttps://sadkljklasd.com?api_key='+API_KEY)
